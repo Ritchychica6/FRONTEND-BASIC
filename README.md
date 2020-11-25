@@ -1,6 +1,6 @@
 # FRONTEND-BASIC
 
-## Uitleg
+## Uitleg.
 
 De technieken HTML, CSS en Javascript worden vaak gebruikt als introductietalen bij software-ontwikkelopleidingen. Dit geldt ook voor jouw opleiding aan het ROC van Amsterdam. Aan het einde van deze module kan je een eenvoudige website maken die iets over jezelf vertelt.
 
