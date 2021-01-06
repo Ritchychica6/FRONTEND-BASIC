@@ -1,18 +1,41 @@
-{body
+body
 
-h1 {
+h1{
     color: black;
-    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 110px;
 }
 
-h3 {
-    color: black;
-    background-color: white;
+p {
+    color: black
+    text-align: center;
 }
+
 
 #groot{
     color: black;
-    background-color: white;
+    
 }
 
+a{
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+
+}
+
+img{
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    display: block;
+    margin: 0 auto;
+   }
+
+#achtergrond{
+    width: 2500px;
+    height: 700px;
+    background-image:jpg(ws_mountains,_tops,_snow,_sky_1920x1080.jpg);
+    background-attachment fixed; 
 }
