@@ -1,5 +1,6 @@
 body
 
+
 h1{
     color: black;
     font-size: 40px;
@@ -9,7 +10,7 @@ h1{
 
 p {
     color: black
-    text-align: center;
+    text-align center;
 }
 
 
@@ -22,7 +23,6 @@ a{
     font-size: 40px;
     color: black;
     text-decoration: none;
-
 }
 
 img{
@@ -36,6 +36,6 @@ img{
 #achtergrond{
     width: 2500px;
     height: 700px;
-    background-image:jpg(ws_mountains,_tops,_snow,_sky_1920x1080.jpg);
-    background-attachment fixed; 
+    background-image:jpg(ws_mountains,_tops,_snow,_sky_1920x1080jpg);
+    background-attachment: fixed; 
 }
