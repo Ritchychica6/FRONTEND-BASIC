@@ -29,13 +29,18 @@ img{
     border-style: solid;
     border-width: 10px;
     border-color: black;
-    display: block;
     margin: 0 auto;
    }
 
 #achtergrond{
-    width: 2500px;
-    height: 700px;
-    background-image:jpg(ws_mountains,_tops,_snow,_sky_1920x1080jpg);
+    
+    background-image: url("ws_mountains,_tops,_snow,_sky_1920x1080.jpg");
     background-attachment: fixed; 
+    
+}
+
+#tekst{ 
+    width: 500px;
+   
+
 }
